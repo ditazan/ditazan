@@ -6,6 +6,6 @@
 - 🔭 I have a BFA in Design and Technology from Parsons School of Design + certificate in Web development from Rice University
 - 📱 Follow me on [LinkedIn](www.linkedin.com/in/dita-zanelli)
 - 📫 Or email me at : ditazanelli@gmail.com
-- [💻](ditzit.com) for my design projects 
+- [💻](https://ditzit.com) for my design projects 
 - [💻](https://ditazan.github.io/webdev_portfolio/) for web stuff
 
