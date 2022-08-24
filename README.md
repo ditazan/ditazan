@@ -7,5 +7,5 @@
  ☠ Follow me on [LinkedIn](www.linkedin.com/in/dita-zanelli)  
  ☠ Or email me at : ditazanelli@gmail.com  
 [💻 design projects](https://ditzit.com)   
-[💻 web stuff](https://ditazan.github.io/webdev_portfolio/)
+[💻 web stuff]
 
